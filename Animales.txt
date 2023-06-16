@@ -1,0 +1,8 @@
+Ardilla.wav
+Canguro.wav
+Cebra.wav
+Cocodrilo.wav
+Elefante.wav
+Foca.wav
+Morsa.wav
+Oso.wav
